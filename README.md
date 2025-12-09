@@ -41,8 +41,9 @@ B站：UID223633562<br>
 GitHub：YueMoon99<br>
 Bug反馈或更多脚本制作建议：我的博客与我联系<br><br>
 <br>
-# ————————English Intro——————————<br>
-<br>
+# ————————English Intro——————————<br><br>
+
+
 # AE Expression Controller<br>
 ## A powerful After Effects expression management script.<br>
 <img width="332" height="473" alt="Screenshot 2025-12-09 235141" src="https://github.com/user-attachments/assets/69f106af-ccb4-4954-939c-990233d6da05" /><br><br>
