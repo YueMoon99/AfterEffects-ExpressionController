@@ -41,15 +41,15 @@ Bug反馈或更多脚本制作建议：我的博客与我联系<br><br>
 ## A powerful After Effects expression management script with intelligent environment detection, solving the double window and blank panel issues, and providing a user-friendly Chinese interface.<br>
 <img width="332" height="473" alt="Screenshot 2025-12-09 235141" src="https://github.com/user-attachments/assets/69f106af-ccb4-4954-939c-990233d6da05" /><br><br>
 ## Features<br>
-🎯 Convenient Expression Management: <br>
+### 🎯 Convenient Expression Management: <br>
 Quickly set and clear expressions for layer properties<br>
-🔧 Multi-property Support: <br>
+### 🔧 Multi-property Support: <br>
 Covers anchor point, position, scale, rotation, opacity and other common properties<br>
-✨ Selected Property Operation: <br>
+### ✨ Selected Property Operation: <br>
 Directly apply or clear expressions to any selected property in AE<br>
-📝 Real-time Status Feedback:<br>
+### 📝 Real-time Status Feedback:<br>
 Operation results displayed in real-time for easy success/failure checking<br>
-🌐 User-friendly Chinese Interface:<br>
+### 🌐 User-friendly Chinese Interface:<br>
 Full Chinese UI and prompts, suitable for Chinese users<br><br>
 
 ## Installation<br>
@@ -60,20 +60,20 @@ macOS: /Applications/Adobe After Effects [version]/Scripts/<br>
 After restarting AE, open the script from Window > ExpressionController<br><br>
 
 ## Usage Guide<br>
-Open the Script: <br>
+### Open the Script: <br>
 Open the script panel using the methods above<br>
-Select Target: <br>
+### Select Target: <br>
 Select the layer or specific property in AE<br>
-Enter Expression: <br>
+### Enter Expression: <br>
 Input AE expression in the script's input box (e.g., wiggle(2, 50))<br>
-Execute Operation:<br>
+### Execute Operation:<br>
 Click buttons in the "Set Expressions" area to apply expressions to corresponding properties<br>
 Click buttons in the "Clear Expressions" area to clear expressions from corresponding properties<br>
-View Results: <br>
+### View Results: <br>
 The operation results will be displayed in the status bar at the bottom of the script<br><br>
 
 ## Open Source License<br>
-This project is open source under the MIT License, resale is prohibited.<br>
+### This project is open source under the MIT License, resale is prohibited.<br>
 Author Information<br>
 Author: YueMoon<br>
 Blog: yuemoon.vip<br>
