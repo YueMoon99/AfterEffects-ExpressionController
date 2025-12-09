@@ -1,5 +1,5 @@
 # AE 表达式控制器
-## 一个功能强大的 After Effects 表达式管理脚本，支持智能环境检测，彻底解决双窗口和空白面板问题，提供友好的中文界面。<br>
+## 一个功能强大的 After Effects 表达式管理脚本。<br>
 <img width="333" height="473" alt="Screenshot 2025-12-09 235133" src="https://github.com/user-attachments/assets/19cacdeb-32f9-479a-bfae-dada95b877b6" /><br><br>
 ## 功能特性
 ### 🎯 便捷表达式管理：<br>
@@ -40,9 +40,11 @@ macOS: /Applications/Adobe After Effects [版本]/Scripts/<br>
 B站：UID223633562<br>
 GitHub：YueMoon99<br>
 Bug反馈或更多脚本制作建议：我的博客与我联系<br><br>
-
+<br>
+# ————————English Intro——————————<br>
+<br>
 # AE Expression Controller<br>
-## A powerful After Effects expression management script with intelligent environment detection, solving the double window and blank panel issues, and providing a user-friendly Chinese interface.<br>
+## A powerful After Effects expression management script.<br>
 <img width="332" height="473" alt="Screenshot 2025-12-09 235141" src="https://github.com/user-attachments/assets/69f106af-ccb4-4954-939c-990233d6da05" /><br><br>
 ## Features<br>
 ### 🎯 Convenient Expression Management: <br>
