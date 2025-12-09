@@ -56,8 +56,6 @@ Covers anchor point, position, scale, rotation, opacity and other common propert
 Directly apply or clear expressions to any selected property in AE<br>
 ### 📝 Real-time Status Feedback:<br>
 Operation results displayed in real-time for easy success/failure checking<br>
-### 🌐 User-friendly Chinese Interface:<br>
-Full Chinese UI and prompts, suitable for Chinese users<br><br>
 
 ## Installation<br>
 Download the script file ExpressionController.jsx<br>
