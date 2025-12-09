@@ -33,36 +33,43 @@ macOS: /Applications/Adobe After Effects [版本]/Scripts/<br>
 作者信息<br>
 作者：舟午 YueMoon<br>
 博客：yuemoon.vip<br>
-GitHub：YueMoon99<br><br>
+B站：UID223633562<br>
+GitHub：YueMoon99<br>
+Bug反馈或更多脚本制作建议：我的博客与我联系<br><br>
 
 # AE Expression Controller
-## A powerful After Effects expression management script with intelligent environment detection, solving the double window and blank panel issues, 和 providing a user-friendly Chinese interface.
+## A powerful After Effects expression management script with intelligent environment detection, solving the double window and blank panel issues, providing a user-friendly Chinese interface.
 <img width="332" height="473" alt="Screenshot 2025-12-09 235141" src="https://github.com/user-attachments/assets/69f106af-ccb4-4954-939c-990233d6da05" />
-## Features
-🧠 Intelligent Environment Detection: Automatically identifies running mode (dockable panel/independent window), completely solving double window and blank panel issues
-🎯 Convenient Expression Management: Quickly set and clear expressions for layer properties
-🔧 Multi-property Support: Covers anchor point, position, scale, rotation, opacity and other common properties
-✨ Selected Property Operation: Directly apply or clear expressions to any selected property in AE
-📝 Real-time Status Feedback: Operation results displayed in real-time for easy success/failure checking
-🌐 User-friendly Chinese Interface: Full Chinese UI and prompts, suitable for Chinese users
-📌 Dockable Panel Support: Can be opened from Window menu and docked to AE interface
-## Installation
-Download the script file ExpressionController.jsx
-Copy the script to AE's Scripts folder:
-Windows: ..\Adobe After Effects [version]\Support Files\Scripts\
-macOS: /Applications/Adobe After Effects [version]/Scripts/
-After restarting AE, open the script from Window > ExpressionController
-## Usage Guide
-Open the Script: Open the script panel using the methods above
-Select Target: Select the layer or specific property in AE
-Enter Expression: Input AE expression in the script's input box (e.g., wiggle(2, 50))
-Execute Operation:
-Click buttons in the "Set Expressions" area to apply expressions to corresponding properties
-Click buttons in the "Clear Expressions" area to clear expressions from corresponding properties
-View Results: The operation results will be displayed in the status bar at the bottom of the script
-## Open Source License
-This project is open source under the MIT License, resale is prohibited.
-Author Information
-Author: YueMoon
-Blog: yuemoon.vip
-GitHub: YueMoon99
+## Features<br>
+🧠 Intelligent Environment Detection: Automatically identifies running mode (dockable panel/independent window), completely solving double window and blank panel issues<br>
+🎯 Convenient Expression Management: Quickly set and clear expressions for layer properties<br>
+🔧 Multi-property Support: Covers anchor point, position, scale, rotation, opacity and other common properties<br>
+✨ Selected Property Operation: Directly apply or clear expressions to any selected property in AE<br>
+📝 Real-time Status Feedback: Operation results displayed in real-time for easy success/failure checking<br>
+🌐 User-friendly Chinese Interface: Full Chinese UI and prompts, suitable for Chinese users<br>
+📌 Dockable Panel Support: Can be opened from Window menu and docked to AE interface<br><br>
+
+## Installation<br>
+Download the script file ExpressionController.jsx<br>
+Copy the script to AE's Scripts folder:<br>
+Windows: ..\Adobe After Effects [version]\Support Files\Scripts\<br>
+macOS: /Applications/Adobe After Effects [version]/Scripts/<br>
+After restarting AE, open the script from Window > ExpressionController<br><br>
+
+## Usage Guide<br>
+Open the Script: Open the script panel using the methods above<br>
+Select Target: Select the layer or specific property in AE<br>
+Enter Expression: Input AE expression in the script's input box (e.g., wiggle(2, 50))<br>
+Execute Operation:<br>
+Click buttons in the "Set Expressions" area to apply expressions to corresponding properties<br>
+Click buttons in the "Clear Expressions" area to clear expressions from corresponding properties<br>
+View Results: The operation results will be displayed in the status bar at the bottom of the script<br><br>
+
+## Open Source License<br>
+This project is open source under the MIT License, resale is prohibited.<br>
+Author Information<br>
+Author: YueMoon<br>
+Blog: yuemoon.vip<br>
+Bilibili:UID223633562<br>
+GitHub: YueMoon99<br>
+
