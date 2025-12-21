@@ -1,6 +1,7 @@
 # AE 表达式控制器
 ## 一个功能强大的 After Effects 表达式管理脚本。<br>
-<img width="333" height="473" alt="Screenshot 2025-12-09 235133" src="https://github.com/user-attachments/assets/19cacdeb-32f9-479a-bfae-dada95b877b6" /><br><br>
+<img width="352" height="566" alt="Screenshot 2025-12-22 004235" src="https://github.com/user-attachments/assets/333d02be-7c02-486f-aafd-877f7fea82c1" />
+<br><br>
 ## 功能特性
 ### 🎯 便捷表达式管理：<br>
 支持快速设置和清除图层属性表达式<br>
@@ -46,7 +47,8 @@ Bug反馈或更多脚本制作建议：我的博客与我联系<br><br>
 
 # AE Expression Controller<br>
 ## A powerful After Effects expression management script.<br>
-<img width="332" height="473" alt="Screenshot 2025-12-09 235141" src="https://github.com/user-attachments/assets/69f106af-ccb4-4954-939c-990233d6da05" /><br><br>
+<img width="372" height="565" alt="Screenshot 2025-12-22 004233" src="https://github.com/user-attachments/assets/0dcd0371-4912-4708-9db5-a34577d74042" />
+<br><br>
 ## Features<br>
 ### 🎯 Convenient Expression Management: <br>
 Quickly set and clear expressions for layer properties<br>
